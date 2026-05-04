@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "dotenv>=0.9.9",
+    "graphviz>=0.21",
     "ipykernel>=7.2.0",
     "joblib>=1.5.3",
     "jupyter>=1.1.1",
@@ -16,6 +17,7 @@ dependencies = [
     "pandas>=3.0.2",
     "praw>=7.8.1",
     "python-louvain>=0.16",
+    "streamlit>=1.57.0",
     "tqdm>=4.67.3",
     "zstandard>=0.25.0",
 ]
