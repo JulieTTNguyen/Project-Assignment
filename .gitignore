@@ -5,3 +5,5 @@ data/wiki_df.csv
 reddit/*
 data/subreddits/*
 data/COMBINED.csv
+data/COMBINED_stop_words_removed.csv
+data/COMBINED_collocations.csv
