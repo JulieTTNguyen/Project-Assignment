@@ -20,7 +20,7 @@ pages = {
         #st.Page("manage_account.py", title="Manage your account"),
     ],
     "Gathering data": [
-        st.Page("pages/datasets.py", title="Datasets used for scraping"),
+        st.Page("pages/datasets.py", title="Dataset download and cleaning"),
         #st.Page("manage_account.py", title="Manage your account"),
     ],
     "Analysis": [
