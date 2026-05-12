@@ -53,6 +53,7 @@ st.write(f"To overcome this obstacle, we decided to filter our all links with we
 "Our netork now consist of 1599 nodes and 142 links. Which allowed us to visalize it agian")
 
 
+filter_thresshold = st.number_input("filter thresshold") #TODO: Make it update the graph.
 with open("./data/filtered_positiv_communities.json", 'r') as file:
     data = json.load(file)
 filtered_G_positive_communities = nx.node_link_graph(data)
