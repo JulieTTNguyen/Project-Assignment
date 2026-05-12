@@ -28,6 +28,11 @@ pages = {
         st.Page("pages/analysis/text.py", title="Text analysis"),
         #st.Page("trial.py", title="Try it out"),
     ],
+     "Concluding Remarks": [
+        st.Page("pages/concluding_remarks/conclusion.py", title="Conclusion"),
+        st.Page("pages/concluding_remarks/discussion.py", title="Discussion"),
+        #st.Page("trial.py", title="Try it out"),
+    ],
 }
 
 pg = st.navigation(pages)
