@@ -16,7 +16,7 @@ Follow this guide to deploy:
 
 pages = {
     "Goal & Intro": [
-        st.Page("pages/goal.py", title="Overview"),
+        st.Page("pages/main.py", title="Overview"),
         #st.Page("manage_account.py", title="Manage your account"),
     ],
     "Gathering data": [

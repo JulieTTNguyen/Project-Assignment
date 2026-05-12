@@ -70,9 +70,9 @@ with st.expander("Reddit Subreddit Dataset"):
 
 
 
-    df = pd.read_csv("data/subreddits/big_subreddit_dataframe.csv")
+    # df = pd.read_csv("data/subreddits/big_subreddit_dataframe.csv")
 
-    st.dataframe(df.head())
+    # st.dataframe(df.head())
 
     st.write("Each dataset is quite large (several GB), so we do not recommed dowloading it below.")
     st.link_button("Download 2025 dataset here", "https://academictorrents.com/download/5d0bf258a025a5b802572ddc29cde89bf093185c.torrent")
