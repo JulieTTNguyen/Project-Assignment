@@ -24,7 +24,8 @@ pages = {
         #st.Page("manage_account.py", title="Manage your account"),
     ],
     "Analysis": [
-        st.Page("pages/semantic.py", title="Semantic analysis"),
+        st.Page("pages/analysis/network.py", title="Network analysis"),
+        st.Page("pages/analysis/text.py", title="Text analysis"),
         #st.Page("trial.py", title="Try it out"),
     ],
 }
