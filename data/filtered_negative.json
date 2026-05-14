@@ -1,0 +1,7161 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "skeptic"
+    },
+    {
+      "id": "raisedbynarcissists"
+    },
+    {
+      "id": "nottheonion"
+    },
+    {
+      "id": "nosleepworkshops"
+    },
+    {
+      "id": "tipofmytongue"
+    },
+    {
+      "id": "freefolk"
+    },
+    {
+      "id": "oaklandraiders"
+    },
+    {
+      "id": "boston"
+    },
+    {
+      "id": "todayilearned"
+    },
+    {
+      "id": "gonewildstories"
+    },
+    {
+      "id": "conspiracy"
+    },
+    {
+      "id": "wallstreetbets"
+    },
+    {
+      "id": "xboxone"
+    },
+    {
+      "id": "blackladies"
+    },
+    {
+      "id": "apple"
+    },
+    {
+      "id": "sex"
+    },
+    {
+      "id": "yugioh"
+    },
+    {
+      "id": "actuallesbians"
+    },
+    {
+      "id": "motorcycles"
+    },
+    {
+      "id": "askscience"
+    },
+    {
+      "id": "interestingasfuck"
+    },
+    {
+      "id": "funny"
+    },
+    {
+      "id": "smashbros"
+    },
+    {
+      "id": "bugs"
+    },
+    {
+      "id": "iamverysmart"
+    },
+    {
+      "id": "answers"
+    },
+    {
+      "id": "badliterarystudies"
+    },
+    {
+      "id": "islam"
+    },
+    {
+      "id": "woahdude"
+    },
+    {
+      "id": "subreddit_stats"
+    },
+    {
+      "id": "latterdaysaints"
+    },
+    {
+      "id": "help"
+    },
+    {
+      "id": "amiugly"
+    },
+    {
+      "id": "chromanauts"
+    },
+    {
+      "id": "osugame"
+    },
+    {
+      "id": "science"
+    },
+    {
+      "id": "collapse"
+    },
+    {
+      "id": "asoiaf"
+    },
+    {
+      "id": "nvidia"
+    },
+    {
+      "id": "aspergers"
+    },
+    {
+      "id": "technology"
+    },
+    {
+      "id": "quityourbullshit"
+    },
+    {
+      "id": "rant"
+    },
+    {
+      "id": "loseit"
+    },
+    {
+      "id": "jailbreak"
+    },
+    {
+      "id": "stopdrinking"
+    },
+    {
+      "id": "history"
+    },
+    {
+      "id": "movies"
+    },
+    {
+      "id": "oculus"
+    },
+    {
+      "id": "canada"
+    },
+    {
+      "id": "exmuslim"
+    },
+    {
+      "id": "photography"
+    },
+    {
+      "id": "orangered"
+    },
+    {
+      "id": "progresspics"
+    },
+    {
+      "id": "privacy"
+    },
+    {
+      "id": "politics"
+    },
+    {
+      "id": "bindingofisaac"
+    },
+    {
+      "id": "techsupport"
+    },
+    {
+      "id": "gamegrumps"
+    },
+    {
+      "id": "skyrim"
+    },
+    {
+      "id": "badscience"
+    },
+    {
+      "id": "dirtypenpals"
+    },
+    {
+      "id": "sysadmin"
+    },
+    {
+      "id": "thedivision"
+    },
+    {
+      "id": "casualiama"
+    },
+    {
+      "id": "cringepics"
+    },
+    {
+      "id": "short"
+    },
+    {
+      "id": "rapecounseling"
+    },
+    {
+      "id": "progressive"
+    },
+    {
+      "id": "dataisbeautiful"
+    },
+    {
+      "id": "webdev"
+    },
+    {
+      "id": "nyc"
+    },
+    {
+      "id": "tipofmypenis"
+    },
+    {
+      "id": "pics"
+    },
+    {
+      "id": "ideasforcmv"
+    },
+    {
+      "id": "shittyama"
+    },
+    {
+      "id": "mildlyinteresting"
+    },
+    {
+      "id": "talesfromtechsupport"
+    },
+    {
+      "id": "respectfullyyours"
+    },
+    {
+      "id": "gaybroscirclejerk"
+    },
+    {
+      "id": "ireland"
+    },
+    {
+      "id": "undelete"
+    },
+    {
+      "id": "linux4noobs"
+    },
+    {
+      "id": "24hoursupport"
+    },
+    {
+      "id": "metacanada"
+    },
+    {
+      "id": "aznidentity"
+    },
+    {
+      "id": "keto"
+    },
+    {
+      "id": "quotes"
+    },
+    {
+      "id": "badeconomics"
+    },
+    {
+      "id": "toronto"
+    },
+    {
+      "id": "angry"
+    },
+    {
+      "id": "facepalm"
+    },
+    {
+      "id": "aww"
+    },
+    {
+      "id": "reactiongifs"
+    },
+    {
+      "id": "summonerschool"
+    },
+    {
+      "id": "indianews"
+    },
+    {
+      "id": "inthemorning"
+    },
+    {
+      "id": "russia"
+    },
+    {
+      "id": "worldnews"
+    },
+    {
+      "id": "iphone"
+    },
+    {
+      "id": "dotamasterrace"
+    },
+    {
+      "id": "assassinscreed"
+    },
+    {
+      "id": "h3h3productions"
+    },
+    {
+      "id": "starterpacks"
+    },
+    {
+      "id": "exjw"
+    },
+    {
+      "id": "worstof"
+    },
+    {
+      "id": "paydaytheheist"
+    },
+    {
+      "id": "againstmensrights"
+    },
+    {
+      "id": "circlebroke"
+    },
+    {
+      "id": "askphilosophy"
+    },
+    {
+      "id": "learnprogramming"
+    },
+    {
+      "id": "btc"
+    },
+    {
+      "id": "vegancirclejerk"
+    },
+    {
+      "id": "lgbt"
+    },
+    {
+      "id": "gaybros"
+    },
+    {
+      "id": "guns"
+    },
+    {
+      "id": "fivenightsatfreddys"
+    },
+    {
+      "id": "television"
+    },
+    {
+      "id": "food"
+    },
+    {
+      "id": "bisexual"
+    },
+    {
+      "id": "legaladvice"
+    },
+    {
+      "id": "soccer"
+    },
+    {
+      "id": "osureport"
+    },
+    {
+      "id": "starcitizen"
+    },
+    {
+      "id": "test"
+    },
+    {
+      "id": "australia"
+    },
+    {
+      "id": "battlefield_4"
+    },
+    {
+      "id": "europe"
+    },
+    {
+      "id": "india"
+    },
+    {
+      "id": "socialism"
+    },
+    {
+      "id": "anime"
+    },
+    {
+      "id": "fo4"
+    },
+    {
+      "id": "hearthstonecirclejerk"
+    },
+    {
+      "id": "scifi"
+    },
+    {
+      "id": "dogs"
+    },
+    {
+      "id": "newzealand"
+    },
+    {
+      "id": "darksouls"
+    },
+    {
+      "id": "cringe"
+    },
+    {
+      "id": "startups"
+    },
+    {
+      "id": "ainbow"
+    },
+    {
+      "id": "truegaming"
+    },
+    {
+      "id": "cars"
+    },
+    {
+      "id": "hearthstone"
+    },
+    {
+      "id": "pcmasterrace"
+    },
+    {
+      "id": "photoshopbattles"
+    },
+    {
+      "id": "japan"
+    },
+    {
+      "id": "ideasfortheadmins"
+    },
+    {
+      "id": "videos"
+    },
+    {
+      "id": "49ers"
+    },
+    {
+      "id": "findareddit"
+    },
+    {
+      "id": "programming"
+    },
+    {
+      "id": "hapas"
+    },
+    {
+      "id": "shittyaskscience"
+    },
+    {
+      "id": "circlejerk"
+    },
+    {
+      "id": "syriancivilwar"
+    },
+    {
+      "id": "nflcirclejerk"
+    },
+    {
+      "id": "philosophy"
+    },
+    {
+      "id": "jobs"
+    },
+    {
+      "id": "confession"
+    },
+    {
+      "id": "heroesofthestorm"
+    },
+    {
+      "id": "asoiafcirclejerk"
+    },
+    {
+      "id": "learnpython"
+    },
+    {
+      "id": "pokemon"
+    },
+    {
+      "id": "nba"
+    },
+    {
+      "id": "philadelphia"
+    },
+    {
+      "id": "ethereum"
+    },
+    {
+      "id": "themoddingofisaac"
+    },
+    {
+      "id": "civ"
+    },
+    {
+      "id": "trees"
+    },
+    {
+      "id": "runescape"
+    },
+    {
+      "id": "childfree"
+    },
+    {
+      "id": "hillaryclinton"
+    },
+    {
+      "id": "boardgames"
+    },
+    {
+      "id": "atheism"
+    },
+    {
+      "id": "tifu"
+    },
+    {
+      "id": "changemyview"
+    },
+    {
+      "id": "dirtyr4r"
+    },
+    {
+      "id": "ethtrader"
+    },
+    {
+      "id": "paydaycirclejerk"
+    },
+    {
+      "id": "climateskeptics"
+    },
+    {
+      "id": "cscareerquestions"
+    },
+    {
+      "id": "mormon"
+    },
+    {
+      "id": "unpopularopinion"
+    },
+    {
+      "id": "buildapc"
+    },
+    {
+      "id": "environment"
+    },
+    {
+      "id": "subredditoftheday"
+    },
+    {
+      "id": "swoleacceptance"
+    },
+    {
+      "id": "needadvice"
+    },
+    {
+      "id": "personalfinance"
+    },
+    {
+      "id": "communism101"
+    },
+    {
+      "id": "asktransgender"
+    },
+    {
+      "id": "shitgreeddisastersays"
+    },
+    {
+      "id": "baseball"
+    },
+    {
+      "id": "pcgaming"
+    },
+    {
+      "id": "rage"
+    },
+    {
+      "id": "askgaybros"
+    },
+    {
+      "id": "worldpolitics"
+    },
+    {
+      "id": "ukpolitics"
+    },
+    {
+      "id": "self"
+    },
+    {
+      "id": "bestof"
+    },
+    {
+      "id": "korea"
+    },
+    {
+      "id": "asianamerican"
+    },
+    {
+      "id": "exmormon"
+    },
+    {
+      "id": "indiadiscussion"
+    },
+    {
+      "id": "4chan"
+    },
+    {
+      "id": "minnesotavikings"
+    },
+    {
+      "id": "badlegaladvice"
+    },
+    {
+      "id": "fitnesscirclejerk"
+    },
+    {
+      "id": "powerlifting"
+    },
+    {
+      "id": "unitedkingdom"
+    },
+    {
+      "id": "sports"
+    },
+    {
+      "id": "mildlyinfuriating"
+    },
+    {
+      "id": "conspiratard"
+    },
+    {
+      "id": "hiphopheads"
+    },
+    {
+      "id": "law"
+    },
+    {
+      "id": "gonewildaudio"
+    },
+    {
+      "id": "nosleep"
+    },
+    {
+      "id": "space"
+    },
+    {
+      "id": "communism"
+    },
+    {
+      "id": "wow"
+    },
+    {
+      "id": "gameofthrones"
+    },
+    {
+      "id": "gaming"
+    },
+    {
+      "id": "circlebroke2"
+    },
+    {
+      "id": "yugijerk"
+    },
+    {
+      "id": "magicthecirclejerking"
+    },
+    {
+      "id": "hockey"
+    },
+    {
+      "id": "lostgeneration"
+    },
+    {
+      "id": "writing"
+    },
+    {
+      "id": "falcons"
+    },
+    {
+      "id": "news"
+    },
+    {
+      "id": "badpsychology"
+    },
+    {
+      "id": "skyrimmods"
+    },
+    {
+      "id": "dogecoin"
+    },
+    {
+      "id": "tf2"
+    },
+    {
+      "id": "rantgrumps"
+    },
+    {
+      "id": "badkarma"
+    },
+    {
+      "id": "vegan"
+    },
+    {
+      "id": "moviescirclejerk"
+    },
+    {
+      "id": "electronic_cigarette"
+    },
+    {
+      "id": "copypasta"
+    },
+    {
+      "id": "meta"
+    },
+    {
+      "id": "books"
+    },
+    {
+      "id": "teenagers"
+    },
+    {
+      "id": "whowouldwin"
+    },
+    {
+      "id": "offmychest"
+    },
+    {
+      "id": "leagueoflegends"
+    },
+    {
+      "id": "theydidthemath"
+    },
+    {
+      "id": "depression"
+    },
+    {
+      "id": "relationship_advice"
+    },
+    {
+      "id": "explainlikeimfive"
+    },
+    {
+      "id": "badphilosophy"
+    },
+    {
+      "id": "bad_religion"
+    },
+    {
+      "id": "bakchodi"
+    },
+    {
+      "id": "cigars"
+    },
+    {
+      "id": "gifs"
+    },
+    {
+      "id": "magicskyfairy"
+    },
+    {
+      "id": "agitation"
+    },
+    {
+      "id": "dating_advice"
+    },
+    {
+      "id": "nfl"
+    },
+    {
+      "id": "creepy"
+    },
+    {
+      "id": "relationships"
+    },
+    {
+      "id": "redditrequest"
+    },
+    {
+      "id": "badhistory"
+    },
+    {
+      "id": "bitcoin_uncensored"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 5,
+      "source": "skeptic",
+      "target": "climateskeptics"
+    },
+    {
+      "weight": 1,
+      "source": "skeptic",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 2,
+      "source": "skeptic",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 13,
+      "source": "raisedbynarcissists",
+      "target": "relationships"
+    },
+    {
+      "weight": 4,
+      "source": "raisedbynarcissists",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "raisedbynarcissists",
+      "target": "loseit"
+    },
+    {
+      "weight": 4,
+      "source": "raisedbynarcissists",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 1,
+      "source": "raisedbynarcissists",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "raisedbynarcissists",
+      "target": "teenagers"
+    },
+    {
+      "weight": 1,
+      "source": "raisedbynarcissists",
+      "target": "rage"
+    },
+    {
+      "weight": 1,
+      "source": "raisedbynarcissists",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "raisedbynarcissists",
+      "target": "pics"
+    },
+    {
+      "weight": 2,
+      "source": "raisedbynarcissists",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "raisedbynarcissists",
+      "target": "depression"
+    },
+    {
+      "weight": 1,
+      "source": "raisedbynarcissists",
+      "target": "aww"
+    },
+    {
+      "weight": 6,
+      "source": "nosleepworkshops",
+      "target": "nosleep"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmytongue",
+      "target": "scifi"
+    },
+    {
+      "weight": 3,
+      "source": "tipofmytongue",
+      "target": "funny"
+    },
+    {
+      "weight": 2,
+      "source": "tipofmytongue",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmytongue",
+      "target": "mildlyinfuriating"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmytongue",
+      "target": "nfl"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmytongue",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmytongue",
+      "target": "self"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmytongue",
+      "target": "books"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmytongue",
+      "target": "nosleep"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmytongue",
+      "target": "progresspics"
+    },
+    {
+      "weight": 6,
+      "source": "freefolk",
+      "target": "asoiaf"
+    },
+    {
+      "weight": 3,
+      "source": "freefolk",
+      "target": "gameofthrones"
+    },
+    {
+      "weight": 5,
+      "source": "oaklandraiders",
+      "target": "nfl"
+    },
+    {
+      "weight": 1,
+      "source": "boston",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "boston",
+      "target": "philadelphia"
+    },
+    {
+      "weight": 19,
+      "source": "conspiracy",
+      "target": "worldnews"
+    },
+    {
+      "weight": 7,
+      "source": "conspiracy",
+      "target": "science"
+    },
+    {
+      "weight": 12,
+      "source": "conspiracy",
+      "target": "politics"
+    },
+    {
+      "weight": 4,
+      "source": "conspiracy",
+      "target": "bestof"
+    },
+    {
+      "weight": 3,
+      "source": "conspiracy",
+      "target": "technology"
+    },
+    {
+      "weight": 5,
+      "source": "conspiracy",
+      "target": "conspiratard"
+    },
+    {
+      "weight": 9,
+      "source": "conspiracy",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "nosleep"
+    },
+    {
+      "weight": 11,
+      "source": "conspiracy",
+      "target": "undelete"
+    },
+    {
+      "weight": 2,
+      "source": "conspiracy",
+      "target": "offmychest"
+    },
+    {
+      "weight": 9,
+      "source": "conspiracy",
+      "target": "pics"
+    },
+    {
+      "weight": 10,
+      "source": "conspiracy",
+      "target": "videos"
+    },
+    {
+      "weight": 5,
+      "source": "conspiracy",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 2,
+      "source": "conspiracy",
+      "target": "unitedkingdom"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "space"
+    },
+    {
+      "weight": 3,
+      "source": "conspiracy",
+      "target": "history"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "tipofmytongue"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "changemyview"
+    },
+    {
+      "weight": 2,
+      "source": "conspiracy",
+      "target": "redditrequest"
+    },
+    {
+      "weight": 2,
+      "source": "conspiracy",
+      "target": "worldpolitics"
+    },
+    {
+      "weight": 3,
+      "source": "conspiracy",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "copypasta"
+    },
+    {
+      "weight": 4,
+      "source": "conspiracy",
+      "target": "movies"
+    },
+    {
+      "weight": 6,
+      "source": "conspiracy",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "circlebroke2"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "food"
+    },
+    {
+      "weight": 2,
+      "source": "conspiracy",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 4,
+      "source": "conspiracy",
+      "target": "europe"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "theydidthemath"
+    },
+    {
+      "weight": 2,
+      "source": "conspiracy",
+      "target": "syriancivilwar"
+    },
+    {
+      "weight": 2,
+      "source": "conspiracy",
+      "target": "askscience"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "scifi"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "trees"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "creepy"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "conspiracy",
+      "target": "russia"
+    },
+    {
+      "weight": 1,
+      "source": "wallstreetbets",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "wallstreetbets",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "xboxone",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "xboxone",
+      "target": "thedivision"
+    },
+    {
+      "weight": 1,
+      "source": "blackladies",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 2,
+      "source": "blackladies",
+      "target": "teenagers"
+    },
+    {
+      "weight": 1,
+      "source": "blackladies",
+      "target": "history"
+    },
+    {
+      "weight": 1,
+      "source": "blackladies",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "blackladies",
+      "target": "hiphopheads"
+    },
+    {
+      "weight": 1,
+      "source": "blackladies",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "blackladies",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "blackladies",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "blackladies",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "apple",
+      "target": "technology"
+    },
+    {
+      "weight": 2,
+      "source": "sex",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "sex",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 6,
+      "source": "sex",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "sex",
+      "target": "metacanada"
+    },
+    {
+      "weight": 1,
+      "source": "actuallesbians",
+      "target": "badphilosophy"
+    },
+    {
+      "weight": 3,
+      "source": "actuallesbians",
+      "target": "dating_advice"
+    },
+    {
+      "weight": 1,
+      "source": "actuallesbians",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 1,
+      "source": "actuallesbians",
+      "target": "lgbt"
+    },
+    {
+      "weight": 1,
+      "source": "actuallesbians",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "motorcycles",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "motorcycles",
+      "target": "philadelphia"
+    },
+    {
+      "weight": 1,
+      "source": "motorcycles",
+      "target": "pics"
+    },
+    {
+      "weight": 2,
+      "source": "askscience",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "askscience",
+      "target": "worldnews"
+    },
+    {
+      "weight": 2,
+      "source": "askscience",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "askscience",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "askscience",
+      "target": "science"
+    },
+    {
+      "weight": 3,
+      "source": "askscience",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "askscience",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "askscience",
+      "target": "creepy"
+    },
+    {
+      "weight": 1,
+      "source": "askscience",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "funny",
+      "target": "askscience"
+    },
+    {
+      "weight": 1,
+      "source": "smashbros",
+      "target": "tf2"
+    },
+    {
+      "weight": 2,
+      "source": "smashbros",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "help"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "talesfromtechsupport"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "undelete"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "australia"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "boardgames"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "bugs",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "answers",
+      "target": "woahdude"
+    },
+    {
+      "weight": 1,
+      "source": "answers",
+      "target": "mildlyinteresting"
+    },
+    {
+      "weight": 1,
+      "source": "answers",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "answers",
+      "target": "needadvice"
+    },
+    {
+      "weight": 1,
+      "source": "badliterarystudies",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 2,
+      "source": "badliterarystudies",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "badliterarystudies",
+      "target": "nyc"
+    },
+    {
+      "weight": 1,
+      "source": "badliterarystudies",
+      "target": "gaming"
+    },
+    {
+      "weight": 6,
+      "source": "badliterarystudies",
+      "target": "books"
+    },
+    {
+      "weight": 1,
+      "source": "badliterarystudies",
+      "target": "india"
+    },
+    {
+      "weight": 4,
+      "source": "islam",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "islam",
+      "target": "worldpolitics"
+    },
+    {
+      "weight": 2,
+      "source": "islam",
+      "target": "news"
+    },
+    {
+      "weight": 2,
+      "source": "islam",
+      "target": "exmuslim"
+    },
+    {
+      "weight": 1,
+      "source": "islam",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "islam",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 2,
+      "source": "islam",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "islam",
+      "target": "canada"
+    },
+    {
+      "weight": 4,
+      "source": "subreddit_stats",
+      "target": "hillaryclinton"
+    },
+    {
+      "weight": 5,
+      "source": "subreddit_stats",
+      "target": "communism"
+    },
+    {
+      "weight": 2,
+      "source": "subreddit_stats",
+      "target": "hiphopheads"
+    },
+    {
+      "weight": 3,
+      "source": "subreddit_stats",
+      "target": "progressive"
+    },
+    {
+      "weight": 6,
+      "source": "subreddit_stats",
+      "target": "atheism"
+    },
+    {
+      "weight": 6,
+      "source": "subreddit_stats",
+      "target": "news"
+    },
+    {
+      "weight": 4,
+      "source": "subreddit_stats",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "subreddit_stats",
+      "target": "pics"
+    },
+    {
+      "weight": 3,
+      "source": "subreddit_stats",
+      "target": "politics"
+    },
+    {
+      "weight": 4,
+      "source": "subreddit_stats",
+      "target": "ainbow"
+    },
+    {
+      "weight": 1,
+      "source": "subreddit_stats",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "subreddit_stats",
+      "target": "worldpolitics"
+    },
+    {
+      "weight": 1,
+      "source": "subreddit_stats",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "subreddit_stats",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 1,
+      "source": "subreddit_stats",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "subreddit_stats",
+      "target": "lostgeneration"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "sysadmin"
+    },
+    {
+      "weight": 2,
+      "source": "help",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "skeptic"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "fivenightsatfreddys"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "askscience"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "space"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "redditrequest"
+    },
+    {
+      "weight": 1,
+      "source": "help",
+      "target": "dogs"
+    },
+    {
+      "weight": 1,
+      "source": "amiugly",
+      "target": "starterpacks"
+    },
+    {
+      "weight": 1,
+      "source": "osugame",
+      "target": "osureport"
+    },
+    {
+      "weight": 1,
+      "source": "collapse",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "collapse",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "asoiaf",
+      "target": "civ"
+    },
+    {
+      "weight": 1,
+      "source": "asoiaf",
+      "target": "gameofthrones"
+    },
+    {
+      "weight": 1,
+      "source": "nvidia",
+      "target": "buildapc"
+    },
+    {
+      "weight": 1,
+      "source": "aspergers",
+      "target": "gaming"
+    },
+    {
+      "weight": 2,
+      "source": "aspergers",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "aspergers",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "aspergers",
+      "target": "sex"
+    },
+    {
+      "weight": 1,
+      "source": "technology",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "technology",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "technology",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "quityourbullshit",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "quityourbullshit",
+      "target": "woahdude"
+    },
+    {
+      "weight": 1,
+      "source": "quityourbullshit",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "quityourbullshit",
+      "target": "tifu"
+    },
+    {
+      "weight": 3,
+      "source": "rant",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "offmychest"
+    },
+    {
+      "weight": 2,
+      "source": "rant",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "politics"
+    },
+    {
+      "weight": 4,
+      "source": "rant",
+      "target": "news"
+    },
+    {
+      "weight": 2,
+      "source": "rant",
+      "target": "teenagers"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 2,
+      "source": "rant",
+      "target": "movies"
+    },
+    {
+      "weight": 3,
+      "source": "rant",
+      "target": "videos"
+    },
+    {
+      "weight": 2,
+      "source": "rant",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "help"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "webdev"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "reactiongifs"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "childfree"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "photoshopbattles"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "techsupport"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "buildapc"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 1,
+      "source": "rant",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "loseit",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "loseit",
+      "target": "offmychest"
+    },
+    {
+      "weight": 5,
+      "source": "loseit",
+      "target": "progresspics"
+    },
+    {
+      "weight": 1,
+      "source": "loseit",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "jailbreak",
+      "target": "techsupport"
+    },
+    {
+      "weight": 1,
+      "source": "stopdrinking",
+      "target": "cringepics"
+    },
+    {
+      "weight": 1,
+      "source": "stopdrinking",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "stopdrinking",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "history",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 1,
+      "source": "history",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "movies",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "movies",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "movies",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "oculus",
+      "target": "canada"
+    },
+    {
+      "weight": 1,
+      "source": "oculus",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "oculus",
+      "target": "pcgaming"
+    },
+    {
+      "weight": 1,
+      "source": "canada",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "canada",
+      "target": "privacy"
+    },
+    {
+      "weight": 1,
+      "source": "canada",
+      "target": "metacanada"
+    },
+    {
+      "weight": 1,
+      "source": "canada",
+      "target": "casualiama"
+    },
+    {
+      "weight": 4,
+      "source": "exmuslim",
+      "target": "worldnews"
+    },
+    {
+      "weight": 9,
+      "source": "exmuslim",
+      "target": "islam"
+    },
+    {
+      "weight": 1,
+      "source": "exmuslim",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "exmuslim",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "exmuslim",
+      "target": "exmormon"
+    },
+    {
+      "weight": 1,
+      "source": "exmuslim",
+      "target": "undelete"
+    },
+    {
+      "weight": 1,
+      "source": "exmuslim",
+      "target": "bad_religion"
+    },
+    {
+      "weight": 1,
+      "source": "exmuslim",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "exmuslim",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "exmuslim",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "photography",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "photography",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "photography",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "photography",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 5,
+      "source": "orangered",
+      "target": "chromanauts"
+    },
+    {
+      "weight": 1,
+      "source": "progresspics",
+      "target": "loseit"
+    },
+    {
+      "weight": 1,
+      "source": "progresspics",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "politics",
+      "target": "news"
+    },
+    {
+      "weight": 4,
+      "source": "bindingofisaac",
+      "target": "themoddingofisaac"
+    },
+    {
+      "weight": 9,
+      "source": "techsupport",
+      "target": "buildapc"
+    },
+    {
+      "weight": 1,
+      "source": "techsupport",
+      "target": "videos"
+    },
+    {
+      "weight": 3,
+      "source": "techsupport",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "techsupport",
+      "target": "movies"
+    },
+    {
+      "weight": 2,
+      "source": "techsupport",
+      "target": "nvidia"
+    },
+    {
+      "weight": 1,
+      "source": "techsupport",
+      "target": "anime"
+    },
+    {
+      "weight": 1,
+      "source": "techsupport",
+      "target": "pokemon"
+    },
+    {
+      "weight": 1,
+      "source": "techsupport",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "techsupport",
+      "target": "pcgaming"
+    },
+    {
+      "weight": 1,
+      "source": "techsupport",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "techsupport",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "gamegrumps",
+      "target": "rantgrumps"
+    },
+    {
+      "weight": 1,
+      "source": "badscience",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "badscience",
+      "target": "conspiracy"
+    },
+    {
+      "weight": 1,
+      "source": "badscience",
+      "target": "undelete"
+    },
+    {
+      "weight": 1,
+      "source": "dirtypenpals",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "dirtypenpals",
+      "target": "dirtyr4r"
+    },
+    {
+      "weight": 2,
+      "source": "dirtypenpals",
+      "target": "sex"
+    },
+    {
+      "weight": 1,
+      "source": "dirtypenpals",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "sysadmin",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "thedivision",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "thedivision",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 2,
+      "source": "thedivision",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "thedivision",
+      "target": "assassinscreed"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "teenagers"
+    },
+    {
+      "weight": 3,
+      "source": "casualiama",
+      "target": "funny"
+    },
+    {
+      "weight": 2,
+      "source": "casualiama",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "amiugly"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "japan"
+    },
+    {
+      "weight": 2,
+      "source": "casualiama",
+      "target": "videos"
+    },
+    {
+      "weight": 3,
+      "source": "casualiama",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "starterpacks"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "progresspics"
+    },
+    {
+      "weight": 1,
+      "source": "casualiama",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "short",
+      "target": "funny"
+    },
+    {
+      "weight": 2,
+      "source": "rapecounseling",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "rapecounseling",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "rapecounseling",
+      "target": "depression"
+    },
+    {
+      "weight": 1,
+      "source": "rapecounseling",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "rapecounseling",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 1,
+      "source": "progressive",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "webdev",
+      "target": "nyc"
+    },
+    {
+      "weight": 1,
+      "source": "webdev",
+      "target": "cscareerquestions"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmypenis",
+      "target": "gonewildaudio"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmypenis",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmypenis",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "tipofmypenis",
+      "target": "gonewildstories"
+    },
+    {
+      "weight": 6,
+      "source": "ideasforcmv",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "shittyama",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "mildlyinteresting",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "talesfromtechsupport",
+      "target": "sysadmin"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "television"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "mildlyinfuriating"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "respectfullyyours",
+      "target": "technology"
+    },
+    {
+      "weight": 7,
+      "source": "gaybroscirclejerk",
+      "target": "gaybros"
+    },
+    {
+      "weight": 3,
+      "source": "gaybroscirclejerk",
+      "target": "askgaybros"
+    },
+    {
+      "weight": 1,
+      "source": "ireland",
+      "target": "europe"
+    },
+    {
+      "weight": 1,
+      "source": "ireland",
+      "target": "pics"
+    },
+    {
+      "weight": 6,
+      "source": "undelete",
+      "target": "politics"
+    },
+    {
+      "weight": 16,
+      "source": "undelete",
+      "target": "conspiracy"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 3,
+      "source": "undelete",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 9,
+      "source": "undelete",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "bestof"
+    },
+    {
+      "weight": 2,
+      "source": "undelete",
+      "target": "pics"
+    },
+    {
+      "weight": 2,
+      "source": "undelete",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "cringe"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "help"
+    },
+    {
+      "weight": 2,
+      "source": "undelete",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "unitedkingdom"
+    },
+    {
+      "weight": 2,
+      "source": "undelete",
+      "target": "europe"
+    },
+    {
+      "weight": 9,
+      "source": "undelete",
+      "target": "news"
+    },
+    {
+      "weight": 9,
+      "source": "undelete",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "aznidentity"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "h3h3productions"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "hillaryclinton"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "progressive"
+    },
+    {
+      "weight": 1,
+      "source": "undelete",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 1,
+      "source": "linux4noobs",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 3,
+      "source": "24hoursupport",
+      "target": "techsupport"
+    },
+    {
+      "weight": 1,
+      "source": "24hoursupport",
+      "target": "buildapc"
+    },
+    {
+      "weight": 1,
+      "source": "24hoursupport",
+      "target": "nvidia"
+    },
+    {
+      "weight": 1,
+      "source": "metacanada",
+      "target": "sex"
+    },
+    {
+      "weight": 2,
+      "source": "metacanada",
+      "target": "canada"
+    },
+    {
+      "weight": 1,
+      "source": "metacanada",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "metacanada",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "metacanada",
+      "target": "toronto"
+    },
+    {
+      "weight": 2,
+      "source": "aznidentity",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "movies"
+    },
+    {
+      "weight": 2,
+      "source": "aznidentity",
+      "target": "hapas"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "asianamerican"
+    },
+    {
+      "weight": 2,
+      "source": "aznidentity",
+      "target": "hearthstone"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "blackladies"
+    },
+    {
+      "weight": 1,
+      "source": "aznidentity",
+      "target": "korea"
+    },
+    {
+      "weight": 1,
+      "source": "keto",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 2,
+      "source": "keto",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "keto",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "keto",
+      "target": "progresspics"
+    },
+    {
+      "weight": 1,
+      "source": "keto",
+      "target": "askscience"
+    },
+    {
+      "weight": 1,
+      "source": "keto",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "keto",
+      "target": "loseit"
+    },
+    {
+      "weight": 1,
+      "source": "quotes",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "quotes",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "quotes",
+      "target": "europe"
+    },
+    {
+      "weight": 1,
+      "source": "quotes",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "quotes",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "badeconomics",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "badeconomics",
+      "target": "gaming"
+    },
+    {
+      "weight": 2,
+      "source": "badeconomics",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "badeconomics",
+      "target": "answers"
+    },
+    {
+      "weight": 3,
+      "source": "badeconomics",
+      "target": "news"
+    },
+    {
+      "weight": 5,
+      "source": "badeconomics",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "badeconomics",
+      "target": "changemyview"
+    },
+    {
+      "weight": 3,
+      "source": "badeconomics",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "badeconomics",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "badeconomics",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 1,
+      "source": "toronto",
+      "target": "canada"
+    },
+    {
+      "weight": 1,
+      "source": "angry",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "angry",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "angry",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "angry",
+      "target": "food"
+    },
+    {
+      "weight": 1,
+      "source": "angry",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 4,
+      "source": "summonerschool",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 11,
+      "source": "indianews",
+      "target": "india"
+    },
+    {
+      "weight": 1,
+      "source": "indianews",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "indianews",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "inthemorning",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "inthemorning",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "inthemorning",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "inthemorning",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "inthemorning",
+      "target": "skeptic"
+    },
+    {
+      "weight": 1,
+      "source": "inthemorning",
+      "target": "environment"
+    },
+    {
+      "weight": 4,
+      "source": "russia",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "russia",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "russia",
+      "target": "europe"
+    },
+    {
+      "weight": 1,
+      "source": "iphone",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "iphone",
+      "target": "techsupport"
+    },
+    {
+      "weight": 1,
+      "source": "iphone",
+      "target": "jailbreak"
+    },
+    {
+      "weight": 1,
+      "source": "iphone",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 17,
+      "source": "dotamasterrace",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 1,
+      "source": "dotamasterrace",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "dotamasterrace",
+      "target": "hearthstone"
+    },
+    {
+      "weight": 8,
+      "source": "dotamasterrace",
+      "target": "heroesofthestorm"
+    },
+    {
+      "weight": 1,
+      "source": "dotamasterrace",
+      "target": "summonerschool"
+    },
+    {
+      "weight": 1,
+      "source": "dotamasterrace",
+      "target": "wow"
+    },
+    {
+      "weight": 1,
+      "source": "assassinscreed",
+      "target": "truegaming"
+    },
+    {
+      "weight": 2,
+      "source": "assassinscreed",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "h3h3productions",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "h3h3productions",
+      "target": "undelete"
+    },
+    {
+      "weight": 1,
+      "source": "h3h3productions",
+      "target": "paydaytheheist"
+    },
+    {
+      "weight": 1,
+      "source": "exjw",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "exjw",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "exjw",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "exjw",
+      "target": "exmormon"
+    },
+    {
+      "weight": 1,
+      "source": "exjw",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "worstof",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "worstof",
+      "target": "askscience"
+    },
+    {
+      "weight": 1,
+      "source": "worstof",
+      "target": "gaming"
+    },
+    {
+      "weight": 2,
+      "source": "worstof",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "worstof",
+      "target": "amiugly"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "trees"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "australia"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "circlebroke"
+    },
+    {
+      "weight": 1,
+      "source": "againstmensrights",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "lostgeneration"
+    },
+    {
+      "weight": 38,
+      "source": "circlebroke",
+      "target": "news"
+    },
+    {
+      "weight": 6,
+      "source": "circlebroke",
+      "target": "bestof"
+    },
+    {
+      "weight": 41,
+      "source": "circlebroke",
+      "target": "videos"
+    },
+    {
+      "weight": 48,
+      "source": "circlebroke",
+      "target": "pics"
+    },
+    {
+      "weight": 9,
+      "source": "circlebroke",
+      "target": "cringepics"
+    },
+    {
+      "weight": 7,
+      "source": "circlebroke",
+      "target": "science"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "circlebroke2"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "ideasfortheadmins"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "badhistory"
+    },
+    {
+      "weight": 5,
+      "source": "circlebroke",
+      "target": "conspiracy"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke",
+      "target": "sports"
+    },
+    {
+      "weight": 11,
+      "source": "circlebroke",
+      "target": "gaming"
+    },
+    {
+      "weight": 31,
+      "source": "circlebroke",
+      "target": "worldnews"
+    },
+    {
+      "weight": 10,
+      "source": "circlebroke",
+      "target": "gifs"
+    },
+    {
+      "weight": 10,
+      "source": "circlebroke",
+      "target": "politics"
+    },
+    {
+      "weight": 5,
+      "source": "circlebroke",
+      "target": "television"
+    },
+    {
+      "weight": 5,
+      "source": "circlebroke",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 35,
+      "source": "circlebroke",
+      "target": "funny"
+    },
+    {
+      "weight": 12,
+      "source": "circlebroke",
+      "target": "movies"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "hiphopheads"
+    },
+    {
+      "weight": 22,
+      "source": "circlebroke",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 5,
+      "source": "circlebroke",
+      "target": "tifu"
+    },
+    {
+      "weight": 7,
+      "source": "circlebroke",
+      "target": "childfree"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "mildlyinfuriating"
+    },
+    {
+      "weight": 6,
+      "source": "circlebroke",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "reactiongifs"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke",
+      "target": "books"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "progressive"
+    },
+    {
+      "weight": 4,
+      "source": "circlebroke",
+      "target": "cringe"
+    },
+    {
+      "weight": 15,
+      "source": "circlebroke",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "sex"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "india"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "communism"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "socialism"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "confession"
+    },
+    {
+      "weight": 4,
+      "source": "circlebroke",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 4,
+      "source": "circlebroke",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "soccer"
+    },
+    {
+      "weight": 5,
+      "source": "circlebroke",
+      "target": "australia"
+    },
+    {
+      "weight": 10,
+      "source": "circlebroke",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "dogecoin"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "offmychest"
+    },
+    {
+      "weight": 4,
+      "source": "circlebroke",
+      "target": "rage"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "relationships"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke",
+      "target": "unitedkingdom"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke",
+      "target": "mildlyinteresting"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "iamverysmart"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "cars"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "canada"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "pcgaming"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke",
+      "target": "woahdude"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke",
+      "target": "facepalm"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "nba"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "writing"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke",
+      "target": "undelete"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "philosophy"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "space"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "paydaytheheist"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "scifi"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "hockey"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "hillaryclinton"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "islam"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke",
+      "target": "starterpacks"
+    },
+    {
+      "weight": 3,
+      "source": "askphilosophy",
+      "target": "badphilosophy"
+    },
+    {
+      "weight": 3,
+      "source": "askphilosophy",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 4,
+      "source": "askphilosophy",
+      "target": "philosophy"
+    },
+    {
+      "weight": 1,
+      "source": "askphilosophy",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 3,
+      "source": "askphilosophy",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "askphilosophy",
+      "target": "islam"
+    },
+    {
+      "weight": 2,
+      "source": "askphilosophy",
+      "target": "science"
+    },
+    {
+      "weight": 2,
+      "source": "askphilosophy",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "askphilosophy",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "learnprogramming",
+      "target": "sysadmin"
+    },
+    {
+      "weight": 1,
+      "source": "learnprogramming",
+      "target": "programming"
+    },
+    {
+      "weight": 10,
+      "source": "btc",
+      "target": "bitcoin_uncensored"
+    },
+    {
+      "weight": 1,
+      "source": "btc",
+      "target": "askscience"
+    },
+    {
+      "weight": 1,
+      "source": "btc",
+      "target": "worldnews"
+    },
+    {
+      "weight": 6,
+      "source": "vegancirclejerk",
+      "target": "vegan"
+    },
+    {
+      "weight": 1,
+      "source": "vegancirclejerk",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "vegancirclejerk",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 2,
+      "source": "lgbt",
+      "target": "asktransgender"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "law"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "gaybros"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "electronic_cigarette"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "lgbt",
+      "target": "self"
+    },
+    {
+      "weight": 1,
+      "source": "guns",
+      "target": "syriancivilwar"
+    },
+    {
+      "weight": 1,
+      "source": "bisexual",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "bisexual",
+      "target": "actuallesbians"
+    },
+    {
+      "weight": 1,
+      "source": "bisexual",
+      "target": "askgaybros"
+    },
+    {
+      "weight": 1,
+      "source": "bisexual",
+      "target": "gaybros"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "philadelphia"
+    },
+    {
+      "weight": 4,
+      "source": "legaladvice",
+      "target": "videos"
+    },
+    {
+      "weight": 2,
+      "source": "legaladvice",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "raisedbynarcissists"
+    },
+    {
+      "weight": 9,
+      "source": "legaladvice",
+      "target": "relationships"
+    },
+    {
+      "weight": 3,
+      "source": "legaladvice",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 4,
+      "source": "legaladvice",
+      "target": "funny"
+    },
+    {
+      "weight": 6,
+      "source": "legaladvice",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "depression"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "lgbt"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "electronic_cigarette"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "boston"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "starcitizen"
+    },
+    {
+      "weight": 2,
+      "source": "legaladvice",
+      "target": "self"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "motorcycles"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "ireland"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "rant"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "askscience"
+    },
+    {
+      "weight": 2,
+      "source": "legaladvice",
+      "target": "jobs"
+    },
+    {
+      "weight": 2,
+      "source": "legaladvice",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "sysadmin"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "talesfromtechsupport"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "canada"
+    },
+    {
+      "weight": 2,
+      "source": "legaladvice",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "exjw"
+    },
+    {
+      "weight": 1,
+      "source": "legaladvice",
+      "target": "learnprogramming"
+    },
+    {
+      "weight": 1,
+      "source": "soccer",
+      "target": "science"
+    },
+    {
+      "weight": 5,
+      "source": "osureport",
+      "target": "osugame"
+    },
+    {
+      "weight": 1,
+      "source": "starcitizen",
+      "target": "programming"
+    },
+    {
+      "weight": 1,
+      "source": "starcitizen",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "starcitizen",
+      "target": "oculus"
+    },
+    {
+      "weight": 3,
+      "source": "starcitizen",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "test",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "test",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "test",
+      "target": "asoiaf"
+    },
+    {
+      "weight": 1,
+      "source": "test",
+      "target": "buildapc"
+    },
+    {
+      "weight": 1,
+      "source": "australia",
+      "target": "apple"
+    },
+    {
+      "weight": 1,
+      "source": "battlefield_4",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "europe",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "europe",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "india",
+      "target": "programming"
+    },
+    {
+      "weight": 2,
+      "source": "india",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "india",
+      "target": "russia"
+    },
+    {
+      "weight": 2,
+      "source": "india",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "india",
+      "target": "conspiracy"
+    },
+    {
+      "weight": 1,
+      "source": "india",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "india",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "worldpolitics"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "progressive"
+    },
+    {
+      "weight": 3,
+      "source": "socialism",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "europe"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "communism101"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "communism"
+    },
+    {
+      "weight": 2,
+      "source": "socialism",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "funny"
+    },
+    {
+      "weight": 2,
+      "source": "socialism",
+      "target": "ireland"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "socialism",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "anime",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "anime",
+      "target": "whowouldwin"
+    },
+    {
+      "weight": 2,
+      "source": "fo4",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "fo4",
+      "target": "battlefield_4"
+    },
+    {
+      "weight": 3,
+      "source": "hearthstonecirclejerk",
+      "target": "hearthstone"
+    },
+    {
+      "weight": 1,
+      "source": "dogs",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "dogs",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "newzealand",
+      "target": "australia"
+    },
+    {
+      "weight": 1,
+      "source": "newzealand",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "newzealand",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "darksouls",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "darksouls",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "cringe",
+      "target": "ireland"
+    },
+    {
+      "weight": 1,
+      "source": "startups",
+      "target": "4chan"
+    },
+    {
+      "weight": 1,
+      "source": "startups",
+      "target": "buildapc"
+    },
+    {
+      "weight": 1,
+      "source": "ainbow",
+      "target": "asktransgender"
+    },
+    {
+      "weight": 1,
+      "source": "ainbow",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "ainbow",
+      "target": "gaybros"
+    },
+    {
+      "weight": 1,
+      "source": "ainbow",
+      "target": "atheism"
+    },
+    {
+      "weight": 2,
+      "source": "truegaming",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "cars",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "cars",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "cars",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "hearthstone",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "hearthstone",
+      "target": "techsupport"
+    },
+    {
+      "weight": 1,
+      "source": "hearthstone",
+      "target": "wow"
+    },
+    {
+      "weight": 31,
+      "source": "hearthstone",
+      "target": "hearthstonecirclejerk"
+    },
+    {
+      "weight": 1,
+      "source": "hearthstone",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 1,
+      "source": "pcmasterrace",
+      "target": "oculus"
+    },
+    {
+      "weight": 1,
+      "source": "ideasfortheadmins",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "ideasfortheadmins",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "ideasfortheadmins",
+      "target": "undelete"
+    },
+    {
+      "weight": 1,
+      "source": "ideasfortheadmins",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "ideasfortheadmins",
+      "target": "redditrequest"
+    },
+    {
+      "weight": 1,
+      "source": "49ers",
+      "target": "falcons"
+    },
+    {
+      "weight": 1,
+      "source": "49ers",
+      "target": "nfl"
+    },
+    {
+      "weight": 1,
+      "source": "findareddit",
+      "target": "rage"
+    },
+    {
+      "weight": 2,
+      "source": "findareddit",
+      "target": "videos"
+    },
+    {
+      "weight": 3,
+      "source": "findareddit",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "findareddit",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "findareddit",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "findareddit",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "findareddit",
+      "target": "creepy"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "offmychest"
+    },
+    {
+      "weight": 4,
+      "source": "hapas",
+      "target": "worldnews"
+    },
+    {
+      "weight": 2,
+      "source": "hapas",
+      "target": "videos"
+    },
+    {
+      "weight": 2,
+      "source": "hapas",
+      "target": "aznidentity"
+    },
+    {
+      "weight": 2,
+      "source": "hapas",
+      "target": "asianamerican"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "short"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "unpopularopinion"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "dating_advice"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "blackladies"
+    },
+    {
+      "weight": 2,
+      "source": "hapas",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "amiugly"
+    },
+    {
+      "weight": 1,
+      "source": "hapas",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "shittyaskscience",
+      "target": "tifu"
+    },
+    {
+      "weight": 3,
+      "source": "shittyaskscience",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "shittyaskscience",
+      "target": "askscience"
+    },
+    {
+      "weight": 3,
+      "source": "shittyaskscience",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "shittyaskscience",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "shittyaskscience",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "shittyaskscience",
+      "target": "shittyama"
+    },
+    {
+      "weight": 3,
+      "source": "circlejerk",
+      "target": "atheism"
+    },
+    {
+      "weight": 3,
+      "source": "circlejerk",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 2,
+      "source": "circlejerk",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 3,
+      "source": "circlejerk",
+      "target": "technology"
+    },
+    {
+      "weight": 2,
+      "source": "circlejerk",
+      "target": "news"
+    },
+    {
+      "weight": 2,
+      "source": "circlejerk",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "circlejerk",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "circlejerk",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "circlejerk",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "circlejerk",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "circlejerk",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "circlejerk",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "circlejerk",
+      "target": "television"
+    },
+    {
+      "weight": 6,
+      "source": "nflcirclejerk",
+      "target": "nfl"
+    },
+    {
+      "weight": 1,
+      "source": "nflcirclejerk",
+      "target": "boston"
+    },
+    {
+      "weight": 2,
+      "source": "jobs",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "jobs",
+      "target": "cscareerquestions"
+    },
+    {
+      "weight": 1,
+      "source": "jobs",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "confession",
+      "target": "gonewildstories"
+    },
+    {
+      "weight": 1,
+      "source": "confession",
+      "target": "relationships"
+    },
+    {
+      "weight": 2,
+      "source": "confession",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "confession",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "confession",
+      "target": "exmuslim"
+    },
+    {
+      "weight": 1,
+      "source": "confession",
+      "target": "tifu"
+    },
+    {
+      "weight": 2,
+      "source": "heroesofthestorm",
+      "target": "hearthstone"
+    },
+    {
+      "weight": 6,
+      "source": "asoiafcirclejerk",
+      "target": "asoiaf"
+    },
+    {
+      "weight": 1,
+      "source": "learnpython",
+      "target": "test"
+    },
+    {
+      "weight": 1,
+      "source": "learnpython",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "learnpython",
+      "target": "learnprogramming"
+    },
+    {
+      "weight": 1,
+      "source": "pokemon",
+      "target": "jailbreak"
+    },
+    {
+      "weight": 1,
+      "source": "nba",
+      "target": "nfl"
+    },
+    {
+      "weight": 1,
+      "source": "philadelphia",
+      "target": "movies"
+    },
+    {
+      "weight": 2,
+      "source": "ethereum",
+      "target": "ethtrader"
+    },
+    {
+      "weight": 3,
+      "source": "themoddingofisaac",
+      "target": "bindingofisaac"
+    },
+    {
+      "weight": 1,
+      "source": "trees",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "trees",
+      "target": "newzealand"
+    },
+    {
+      "weight": 1,
+      "source": "trees",
+      "target": "depression"
+    },
+    {
+      "weight": 1,
+      "source": "trees",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "runescape",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 1,
+      "source": "childfree",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "childfree",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "hillaryclinton",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "hillaryclinton",
+      "target": "self"
+    },
+    {
+      "weight": 1,
+      "source": "boardgames",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "worldpolitics"
+    },
+    {
+      "weight": 3,
+      "source": "atheism",
+      "target": "worldnews"
+    },
+    {
+      "weight": 2,
+      "source": "atheism",
+      "target": "pics"
+    },
+    {
+      "weight": 4,
+      "source": "atheism",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 2,
+      "source": "atheism",
+      "target": "news"
+    },
+    {
+      "weight": 2,
+      "source": "atheism",
+      "target": "islam"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "askscience"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "exmormon"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "latterdaysaints"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "facepalm"
+    },
+    {
+      "weight": 2,
+      "source": "atheism",
+      "target": "exmuslim"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "starterpacks"
+    },
+    {
+      "weight": 1,
+      "source": "atheism",
+      "target": "philosophy"
+    },
+    {
+      "weight": 1,
+      "source": "tifu",
+      "target": "findareddit"
+    },
+    {
+      "weight": 1,
+      "source": "tifu",
+      "target": "shittyaskscience"
+    },
+    {
+      "weight": 1,
+      "source": "tifu",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "tifu",
+      "target": "ireland"
+    },
+    {
+      "weight": 1,
+      "source": "tifu",
+      "target": "childfree"
+    },
+    {
+      "weight": 1,
+      "source": "tifu",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "tifu",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "tifu",
+      "target": "casualiama"
+    },
+    {
+      "weight": 3,
+      "source": "changemyview",
+      "target": "relationships"
+    },
+    {
+      "weight": 2,
+      "source": "changemyview",
+      "target": "sex"
+    },
+    {
+      "weight": 3,
+      "source": "changemyview",
+      "target": "politics"
+    },
+    {
+      "weight": 2,
+      "source": "changemyview",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "gaming"
+    },
+    {
+      "weight": 7,
+      "source": "changemyview",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "loseit"
+    },
+    {
+      "weight": 3,
+      "source": "changemyview",
+      "target": "technology"
+    },
+    {
+      "weight": 5,
+      "source": "changemyview",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "television"
+    },
+    {
+      "weight": 10,
+      "source": "changemyview",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "offmychest"
+    },
+    {
+      "weight": 4,
+      "source": "changemyview",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "funny"
+    },
+    {
+      "weight": 4,
+      "source": "changemyview",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "socialism"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "short"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "nyc"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "iamverysmart"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "hockey"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "trees"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "hapas"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "mildlyinteresting"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "circlebroke"
+    },
+    {
+      "weight": 1,
+      "source": "changemyview",
+      "target": "starterpacks"
+    },
+    {
+      "weight": 1,
+      "source": "dirtyr4r",
+      "target": "sex"
+    },
+    {
+      "weight": 4,
+      "source": "dirtyr4r",
+      "target": "dirtypenpals"
+    },
+    {
+      "weight": 2,
+      "source": "ethtrader",
+      "target": "btc"
+    },
+    {
+      "weight": 1,
+      "source": "ethtrader",
+      "target": "startups"
+    },
+    {
+      "weight": 2,
+      "source": "ethtrader",
+      "target": "ethereum"
+    },
+    {
+      "weight": 7,
+      "source": "paydaycirclejerk",
+      "target": "paydaytheheist"
+    },
+    {
+      "weight": 2,
+      "source": "climateskeptics",
+      "target": "science"
+    },
+    {
+      "weight": 3,
+      "source": "climateskeptics",
+      "target": "skeptic"
+    },
+    {
+      "weight": 1,
+      "source": "climateskeptics",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "climateskeptics",
+      "target": "collapse"
+    },
+    {
+      "weight": 3,
+      "source": "cscareerquestions",
+      "target": "learnprogramming"
+    },
+    {
+      "weight": 1,
+      "source": "cscareerquestions",
+      "target": "learnpython"
+    },
+    {
+      "weight": 1,
+      "source": "mormon",
+      "target": "latterdaysaints"
+    },
+    {
+      "weight": 3,
+      "source": "mormon",
+      "target": "exmormon"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "sports"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "rant"
+    },
+    {
+      "weight": 2,
+      "source": "unpopularopinion",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "buildapc",
+      "target": "battlefield_4"
+    },
+    {
+      "weight": 1,
+      "source": "buildapc",
+      "target": "newzealand"
+    },
+    {
+      "weight": 1,
+      "source": "buildapc",
+      "target": "worldnews"
+    },
+    {
+      "weight": 3,
+      "source": "buildapc",
+      "target": "techsupport"
+    },
+    {
+      "weight": 1,
+      "source": "buildapc",
+      "target": "sysadmin"
+    },
+    {
+      "weight": 3,
+      "source": "buildapc",
+      "target": "nvidia"
+    },
+    {
+      "weight": 1,
+      "source": "buildapc",
+      "target": "oculus"
+    },
+    {
+      "weight": 1,
+      "source": "buildapc",
+      "target": "24hoursupport"
+    },
+    {
+      "weight": 1,
+      "source": "subredditoftheday",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "subredditoftheday",
+      "target": "quityourbullshit"
+    },
+    {
+      "weight": 1,
+      "source": "subredditoftheday",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "subredditoftheday",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "subredditoftheday",
+      "target": "worldnews"
+    },
+    {
+      "weight": 8,
+      "source": "swoleacceptance",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "swoleacceptance",
+      "target": "cringe"
+    },
+    {
+      "weight": 1,
+      "source": "swoleacceptance",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 1,
+      "source": "swoleacceptance",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "swoleacceptance",
+      "target": "food"
+    },
+    {
+      "weight": 1,
+      "source": "needadvice",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "needadvice",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "needadvice",
+      "target": "raisedbynarcissists"
+    },
+    {
+      "weight": 1,
+      "source": "needadvice",
+      "target": "politics"
+    },
+    {
+      "weight": 2,
+      "source": "personalfinance",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "personalfinance",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "communism101",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "communism101",
+      "target": "communism"
+    },
+    {
+      "weight": 1,
+      "source": "communism101",
+      "target": "badeconomics"
+    },
+    {
+      "weight": 1,
+      "source": "communism101",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "lgbt"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "sex"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 3,
+      "source": "asktransgender",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "funny"
+    },
+    {
+      "weight": 2,
+      "source": "asktransgender",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "progresspics"
+    },
+    {
+      "weight": 1,
+      "source": "asktransgender",
+      "target": "ainbow"
+    },
+    {
+      "weight": 7,
+      "source": "shitgreeddisastersays",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "shitgreeddisastersays",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 2,
+      "source": "shitgreeddisastersays",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "shitgreeddisastersays",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "shitgreeddisastersays",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "shitgreeddisastersays",
+      "target": "guns"
+    },
+    {
+      "weight": 2,
+      "source": "shitgreeddisastersays",
+      "target": "movies"
+    },
+    {
+      "weight": 3,
+      "source": "shitgreeddisastersays",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "shitgreeddisastersays",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 2,
+      "source": "shitgreeddisastersays",
+      "target": "europe"
+    },
+    {
+      "weight": 2,
+      "source": "shitgreeddisastersays",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "shitgreeddisastersays",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 1,
+      "source": "shitgreeddisastersays",
+      "target": "askscience"
+    },
+    {
+      "weight": 1,
+      "source": "pcgaming",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "pcgaming",
+      "target": "techsupport"
+    },
+    {
+      "weight": 1,
+      "source": "pcgaming",
+      "target": "thedivision"
+    },
+    {
+      "weight": 1,
+      "source": "pcgaming",
+      "target": "oculus"
+    },
+    {
+      "weight": 1,
+      "source": "rage",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 3,
+      "source": "askgaybros",
+      "target": "gaybros"
+    },
+    {
+      "weight": 2,
+      "source": "askgaybros",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "askgaybros",
+      "target": "sex"
+    },
+    {
+      "weight": 1,
+      "source": "askgaybros",
+      "target": "asktransgender"
+    },
+    {
+      "weight": 1,
+      "source": "askgaybros",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "askgaybros",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "askgaybros",
+      "target": "bisexual"
+    },
+    {
+      "weight": 1,
+      "source": "askgaybros",
+      "target": "gaybroscirclejerk"
+    },
+    {
+      "weight": 2,
+      "source": "askgaybros",
+      "target": "islam"
+    },
+    {
+      "weight": 1,
+      "source": "askgaybros",
+      "target": "atheism"
+    },
+    {
+      "weight": 2,
+      "source": "worldpolitics",
+      "target": "syriancivilwar"
+    },
+    {
+      "weight": 1,
+      "source": "worldpolitics",
+      "target": "undelete"
+    },
+    {
+      "weight": 1,
+      "source": "worldpolitics",
+      "target": "unitedkingdom"
+    },
+    {
+      "weight": 1,
+      "source": "worldpolitics",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 2,
+      "source": "worldpolitics",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "worldpolitics",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "worldpolitics",
+      "target": "islam"
+    },
+    {
+      "weight": 2,
+      "source": "ukpolitics",
+      "target": "unitedkingdom"
+    },
+    {
+      "weight": 1,
+      "source": "ukpolitics",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "trees"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "casualiama"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "techsupport"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "canada"
+    },
+    {
+      "weight": 2,
+      "source": "self",
+      "target": "movies"
+    },
+    {
+      "weight": 3,
+      "source": "self",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "lgbt"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "offmychest"
+    },
+    {
+      "weight": 3,
+      "source": "self",
+      "target": "videos"
+    },
+    {
+      "weight": 4,
+      "source": "self",
+      "target": "news"
+    },
+    {
+      "weight": 4,
+      "source": "self",
+      "target": "pics"
+    },
+    {
+      "weight": 3,
+      "source": "self",
+      "target": "conspiracy"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "dogs"
+    },
+    {
+      "weight": 2,
+      "source": "self",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "meta"
+    },
+    {
+      "weight": 2,
+      "source": "self",
+      "target": "worldnews"
+    },
+    {
+      "weight": 2,
+      "source": "self",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "creepy"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "woahdude"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "food"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "raisedbynarcissists"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "cringepics"
+    },
+    {
+      "weight": 1,
+      "source": "self",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 2,
+      "source": "self",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "korea",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "asianamerican",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "asianamerican",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "asianamerican",
+      "target": "short"
+    },
+    {
+      "weight": 1,
+      "source": "asianamerican",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "asianamerican",
+      "target": "aznidentity"
+    },
+    {
+      "weight": 1,
+      "source": "asianamerican",
+      "target": "blackladies"
+    },
+    {
+      "weight": 1,
+      "source": "asianamerican",
+      "target": "food"
+    },
+    {
+      "weight": 9,
+      "source": "exmormon",
+      "target": "latterdaysaints"
+    },
+    {
+      "weight": 1,
+      "source": "exmormon",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "exmormon",
+      "target": "raisedbynarcissists"
+    },
+    {
+      "weight": 6,
+      "source": "exmormon",
+      "target": "mormon"
+    },
+    {
+      "weight": 2,
+      "source": "exmormon",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 2,
+      "source": "exmormon",
+      "target": "exjw"
+    },
+    {
+      "weight": 1,
+      "source": "exmormon",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "exmormon",
+      "target": "depression"
+    },
+    {
+      "weight": 1,
+      "source": "exmormon",
+      "target": "photoshopbattles"
+    },
+    {
+      "weight": 1,
+      "source": "exmormon",
+      "target": "gifs"
+    },
+    {
+      "weight": 6,
+      "source": "indiadiscussion",
+      "target": "india"
+    },
+    {
+      "weight": 1,
+      "source": "indiadiscussion",
+      "target": "bakchodi"
+    },
+    {
+      "weight": 2,
+      "source": "indiadiscussion",
+      "target": "indianews"
+    },
+    {
+      "weight": 1,
+      "source": "4chan",
+      "target": "redditrequest"
+    },
+    {
+      "weight": 1,
+      "source": "minnesotavikings",
+      "target": "sports"
+    },
+    {
+      "weight": 3,
+      "source": "minnesotavikings",
+      "target": "nfl"
+    },
+    {
+      "weight": 2,
+      "source": "badlegaladvice",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "badlegaladvice",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "badlegaladvice",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "badlegaladvice",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "badlegaladvice",
+      "target": "philosophy"
+    },
+    {
+      "weight": 1,
+      "source": "badlegaladvice",
+      "target": "askgaybros"
+    },
+    {
+      "weight": 13,
+      "source": "powerlifting",
+      "target": "fitnesscirclejerk"
+    },
+    {
+      "weight": 1,
+      "source": "unitedkingdom",
+      "target": "reactiongifs"
+    },
+    {
+      "weight": 1,
+      "source": "unitedkingdom",
+      "target": "newzealand"
+    },
+    {
+      "weight": 1,
+      "source": "unitedkingdom",
+      "target": "aznidentity"
+    },
+    {
+      "weight": 2,
+      "source": "mildlyinfuriating",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "mildlyinfuriating",
+      "target": "photoshopbattles"
+    },
+    {
+      "weight": 1,
+      "source": "conspiratard",
+      "target": "worldnews"
+    },
+    {
+      "weight": 2,
+      "source": "conspiratard",
+      "target": "politics"
+    },
+    {
+      "weight": 2,
+      "source": "conspiratard",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "conspiratard",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "conspiratard",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "conspiratard",
+      "target": "programming"
+    },
+    {
+      "weight": 1,
+      "source": "conspiratard",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 1,
+      "source": "conspiratard",
+      "target": "skeptic"
+    },
+    {
+      "weight": 1,
+      "source": "conspiratard",
+      "target": "collapse"
+    },
+    {
+      "weight": 1,
+      "source": "hiphopheads",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "law",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "law",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "law",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "law",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "law",
+      "target": "philosophy"
+    },
+    {
+      "weight": 1,
+      "source": "gonewildaudio",
+      "target": "dirtypenpals"
+    },
+    {
+      "weight": 1,
+      "source": "space",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "communism",
+      "target": "communism101"
+    },
+    {
+      "weight": 1,
+      "source": "communism",
+      "target": "lostgeneration"
+    },
+    {
+      "weight": 1,
+      "source": "communism",
+      "target": "socialism"
+    },
+    {
+      "weight": 1,
+      "source": "communism",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "wow",
+      "target": "nosleep"
+    },
+    {
+      "weight": 1,
+      "source": "gaming",
+      "target": "xboxone"
+    },
+    {
+      "weight": 1,
+      "source": "gaming",
+      "target": "runescape"
+    },
+    {
+      "weight": 1,
+      "source": "gaming",
+      "target": "whowouldwin"
+    },
+    {
+      "weight": 1,
+      "source": "gaming",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 1,
+      "source": "gaming",
+      "target": "thedivision"
+    },
+    {
+      "weight": 1,
+      "source": "gaming",
+      "target": "talesfromtechsupport"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke2",
+      "target": "cringepics"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke2",
+      "target": "pics"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke2",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke2",
+      "target": "tifu"
+    },
+    {
+      "weight": 4,
+      "source": "circlebroke2",
+      "target": "news"
+    },
+    {
+      "weight": 5,
+      "source": "circlebroke2",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "unitedkingdom"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke2",
+      "target": "australia"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke2",
+      "target": "changemyview"
+    },
+    {
+      "weight": 4,
+      "source": "circlebroke2",
+      "target": "videos"
+    },
+    {
+      "weight": 5,
+      "source": "circlebroke2",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke2",
+      "target": "europe"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "sports"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "starcitizen"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "confession"
+    },
+    {
+      "weight": 3,
+      "source": "circlebroke2",
+      "target": "books"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke2",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "skeptic"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "creepy"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "4chan"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "toronto"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "gifs"
+    },
+    {
+      "weight": 2,
+      "source": "circlebroke2",
+      "target": "nfl"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "nba"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "hillaryclinton"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "webdev"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "syriancivilwar"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "childfree"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "asoiaf"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
+      "target": "nyc"
+    },
+    {
+      "weight": 7,
+      "source": "yugijerk",
+      "target": "yugioh"
+    },
+    {
+      "weight": 1,
+      "source": "magicthecirclejerking",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "hockey",
+      "target": "nba"
+    },
+    {
+      "weight": 1,
+      "source": "lostgeneration",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "writing",
+      "target": "books"
+    },
+    {
+      "weight": 3,
+      "source": "falcons",
+      "target": "nfl"
+    },
+    {
+      "weight": 1,
+      "source": "badpsychology",
+      "target": "conspiratard"
+    },
+    {
+      "weight": 1,
+      "source": "badpsychology",
+      "target": "rage"
+    },
+    {
+      "weight": 1,
+      "source": "badpsychology",
+      "target": "reactiongifs"
+    },
+    {
+      "weight": 1,
+      "source": "badpsychology",
+      "target": "science"
+    },
+    {
+      "weight": 4,
+      "source": "skyrimmods",
+      "target": "skyrim"
+    },
+    {
+      "weight": 1,
+      "source": "skyrimmods",
+      "target": "theydidthemath"
+    },
+    {
+      "weight": 2,
+      "source": "dogecoin",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "dogecoin",
+      "target": "sex"
+    },
+    {
+      "weight": 1,
+      "source": "dogecoin",
+      "target": "cars"
+    },
+    {
+      "weight": 1,
+      "source": "dogecoin",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "dogecoin",
+      "target": "mildlyinteresting"
+    },
+    {
+      "weight": 1,
+      "source": "dogecoin",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "dogecoin",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "dogecoin",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "dogecoin",
+      "target": "btc"
+    },
+    {
+      "weight": 1,
+      "source": "tf2",
+      "target": "relationships"
+    },
+    {
+      "weight": 11,
+      "source": "rantgrumps",
+      "target": "gamegrumps"
+    },
+    {
+      "weight": 1,
+      "source": "rantgrumps",
+      "target": "tf2"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "teenagers"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "space"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "communism101"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "woahdude"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "creepy"
+    },
+    {
+      "weight": 1,
+      "source": "badkarma",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "vegan",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "vegan",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "vegan",
+      "target": "worldnews"
+    },
+    {
+      "weight": 2,
+      "source": "vegan",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "vegan",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "vegan",
+      "target": "food"
+    },
+    {
+      "weight": 1,
+      "source": "vegan",
+      "target": "rage"
+    },
+    {
+      "weight": 1,
+      "source": "vegan",
+      "target": "environment"
+    },
+    {
+      "weight": 1,
+      "source": "vegan",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "moviescirclejerk",
+      "target": "scifi"
+    },
+    {
+      "weight": 1,
+      "source": "moviescirclejerk",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "electronic_cigarette",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "ireland"
+    },
+    {
+      "weight": 9,
+      "source": "copypasta",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 6,
+      "source": "copypasta",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "bestof"
+    },
+    {
+      "weight": 8,
+      "source": "copypasta",
+      "target": "4chan"
+    },
+    {
+      "weight": 3,
+      "source": "copypasta",
+      "target": "mildlyinteresting"
+    },
+    {
+      "weight": 6,
+      "source": "copypasta",
+      "target": "news"
+    },
+    {
+      "weight": 3,
+      "source": "copypasta",
+      "target": "tf2"
+    },
+    {
+      "weight": 8,
+      "source": "copypasta",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "worldpolitics"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "conspiracy"
+    },
+    {
+      "weight": 4,
+      "source": "copypasta",
+      "target": "smashbros"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "rage"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "food"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "quityourbullshit"
+    },
+    {
+      "weight": 8,
+      "source": "copypasta",
+      "target": "pics"
+    },
+    {
+      "weight": 5,
+      "source": "copypasta",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "badscience"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "pokemon"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "tifu"
+    },
+    {
+      "weight": 6,
+      "source": "copypasta",
+      "target": "gifs"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "programming"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "casualiama"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "circlebroke"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "reactiongifs"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "teenagers"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "technology"
+    },
+    {
+      "weight": 3,
+      "source": "copypasta",
+      "target": "skyrim"
+    },
+    {
+      "weight": 3,
+      "source": "copypasta",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "creepy"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "childfree"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "self"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "hockey"
+    },
+    {
+      "weight": 3,
+      "source": "copypasta",
+      "target": "hearthstone"
+    },
+    {
+      "weight": 3,
+      "source": "copypasta",
+      "target": "hiphopheads"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "cringepics"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "starterpacks"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "television"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "woahdude"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "soccer"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "leagueoflegends"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "sports"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "circlejerk"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "politics"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "nba"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "moviescirclejerk"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "indiadiscussion"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "askgaybros"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "mildlyinfuriating"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "circlebroke2"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "atheism"
+    },
+    {
+      "weight": 2,
+      "source": "copypasta",
+      "target": "askphilosophy"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "philadelphia"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "iamverysmart"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "badphilosophy"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "baseball"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "amiugly"
+    },
+    {
+      "weight": 1,
+      "source": "copypasta",
+      "target": "undelete"
+    },
+    {
+      "weight": 1,
+      "source": "meta",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "meta",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "meta",
+      "target": "nosleep"
+    },
+    {
+      "weight": 1,
+      "source": "books",
+      "target": "writing"
+    },
+    {
+      "weight": 1,
+      "source": "teenagers",
+      "target": "hiphopheads"
+    },
+    {
+      "weight": 1,
+      "source": "teenagers",
+      "target": "depression"
+    },
+    {
+      "weight": 1,
+      "source": "teenagers",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "science"
+    },
+    {
+      "weight": 7,
+      "source": "offmychest",
+      "target": "relationships"
+    },
+    {
+      "weight": 5,
+      "source": "offmychest",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "sex"
+    },
+    {
+      "weight": 2,
+      "source": "offmychest",
+      "target": "trees"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "cringepics"
+    },
+    {
+      "weight": 4,
+      "source": "offmychest",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "news"
+    },
+    {
+      "weight": 3,
+      "source": "offmychest",
+      "target": "videos"
+    },
+    {
+      "weight": 3,
+      "source": "offmychest",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 3,
+      "source": "offmychest",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 2,
+      "source": "offmychest",
+      "target": "casualiama"
+    },
+    {
+      "weight": 2,
+      "source": "offmychest",
+      "target": "personalfinance"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "teenagers"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "canada"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "offmychest",
+      "target": "depression"
+    },
+    {
+      "weight": 1,
+      "source": "leagueoflegends",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "leagueoflegends",
+      "target": "cringepics"
+    },
+    {
+      "weight": 1,
+      "source": "leagueoflegends",
+      "target": "gaming"
+    },
+    {
+      "weight": 1,
+      "source": "leagueoflegends",
+      "target": "gameofthrones"
+    },
+    {
+      "weight": 2,
+      "source": "leagueoflegends",
+      "target": "dotamasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "leagueoflegends",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 3,
+      "source": "leagueoflegends",
+      "target": "summonerschool"
+    },
+    {
+      "weight": 1,
+      "source": "leagueoflegends",
+      "target": "science"
+    },
+    {
+      "weight": 2,
+      "source": "theydidthemath",
+      "target": "environment"
+    },
+    {
+      "weight": 2,
+      "source": "theydidthemath",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "talesfromtechsupport"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "movies"
+    },
+    {
+      "weight": 2,
+      "source": "theydidthemath",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "answers"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "aww"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "gifs"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "theydidthemath",
+      "target": "technology"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "pics"
+    },
+    {
+      "weight": 3,
+      "source": "depression",
+      "target": "offmychest"
+    },
+    {
+      "weight": 2,
+      "source": "depression",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 2,
+      "source": "depression",
+      "target": "teenagers"
+    },
+    {
+      "weight": 10,
+      "source": "depression",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "self"
+    },
+    {
+      "weight": 3,
+      "source": "depression",
+      "target": "raisedbynarcissists"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "stopdrinking"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "movies"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "changemyview"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "dating_advice"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "space"
+    },
+    {
+      "weight": 2,
+      "source": "depression",
+      "target": "confession"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "hiphopheads"
+    },
+    {
+      "weight": 1,
+      "source": "depression",
+      "target": "aspergers"
+    },
+    {
+      "weight": 8,
+      "source": "relationship_advice",
+      "target": "relationships"
+    },
+    {
+      "weight": 1,
+      "source": "relationship_advice",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "relationship_advice",
+      "target": "dating_advice"
+    },
+    {
+      "weight": 1,
+      "source": "relationship_advice",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "dataisbeautiful"
+    },
+    {
+      "weight": 10,
+      "source": "explainlikeimfive",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 3,
+      "source": "explainlikeimfive",
+      "target": "funny"
+    },
+    {
+      "weight": 2,
+      "source": "explainlikeimfive",
+      "target": "politics"
+    },
+    {
+      "weight": 8,
+      "source": "explainlikeimfive",
+      "target": "pics"
+    },
+    {
+      "weight": 4,
+      "source": "explainlikeimfive",
+      "target": "videos"
+    },
+    {
+      "weight": 2,
+      "source": "explainlikeimfive",
+      "target": "technology"
+    },
+    {
+      "weight": 3,
+      "source": "explainlikeimfive",
+      "target": "askscience"
+    },
+    {
+      "weight": 3,
+      "source": "explainlikeimfive",
+      "target": "gifs"
+    },
+    {
+      "weight": 2,
+      "source": "explainlikeimfive",
+      "target": "movies"
+    },
+    {
+      "weight": 3,
+      "source": "explainlikeimfive",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "interestingasfuck"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "mildlyinteresting"
+    },
+    {
+      "weight": 3,
+      "source": "explainlikeimfive",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "creepy"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "books"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "nottheonion"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "toronto"
+    },
+    {
+      "weight": 2,
+      "source": "explainlikeimfive",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "pcmasterrace"
+    },
+    {
+      "weight": 1,
+      "source": "explainlikeimfive",
+      "target": "photoshopbattles"
+    },
+    {
+      "weight": 2,
+      "source": "badphilosophy",
+      "target": "askphilosophy"
+    },
+    {
+      "weight": 2,
+      "source": "badphilosophy",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "badphilosophy",
+      "target": "badhistory"
+    },
+    {
+      "weight": 3,
+      "source": "badphilosophy",
+      "target": "philosophy"
+    },
+    {
+      "weight": 1,
+      "source": "badphilosophy",
+      "target": "undelete"
+    },
+    {
+      "weight": 4,
+      "source": "bad_religion",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 3,
+      "source": "bad_religion",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "bad_religion",
+      "target": "lostgeneration"
+    },
+    {
+      "weight": 1,
+      "source": "bad_religion",
+      "target": "latterdaysaints"
+    },
+    {
+      "weight": 1,
+      "source": "bad_religion",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "bad_religion",
+      "target": "exmuslim"
+    },
+    {
+      "weight": 3,
+      "source": "bad_religion",
+      "target": "india"
+    },
+    {
+      "weight": 1,
+      "source": "bad_religion",
+      "target": "circlebroke2"
+    },
+    {
+      "weight": 2,
+      "source": "bad_religion",
+      "target": "europe"
+    },
+    {
+      "weight": 1,
+      "source": "bad_religion",
+      "target": "funny"
+    },
+    {
+      "weight": 2,
+      "source": "bad_religion",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "bad_religion",
+      "target": "islam"
+    },
+    {
+      "weight": 1,
+      "source": "bad_religion",
+      "target": "asktransgender"
+    },
+    {
+      "weight": 4,
+      "source": "bakchodi",
+      "target": "india"
+    },
+    {
+      "weight": 1,
+      "source": "bakchodi",
+      "target": "ukpolitics"
+    },
+    {
+      "weight": 1,
+      "source": "bakchodi",
+      "target": "worldnews"
+    },
+    {
+      "weight": 4,
+      "source": "magicskyfairy",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "magicskyfairy",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "magicskyfairy",
+      "target": "exmormon"
+    },
+    {
+      "weight": 1,
+      "source": "magicskyfairy",
+      "target": "bad_religion"
+    },
+    {
+      "weight": 1,
+      "source": "agitation",
+      "target": "worldpolitics"
+    },
+    {
+      "weight": 3,
+      "source": "agitation",
+      "target": "unitedkingdom"
+    },
+    {
+      "weight": 1,
+      "source": "agitation",
+      "target": "news"
+    },
+    {
+      "weight": 4,
+      "source": "agitation",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "agitation",
+      "target": "history"
+    },
+    {
+      "weight": 1,
+      "source": "agitation",
+      "target": "science"
+    },
+    {
+      "weight": 1,
+      "source": "agitation",
+      "target": "pics"
+    },
+    {
+      "weight": 1,
+      "source": "dating_advice",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 2,
+      "source": "nfl",
+      "target": "minnesotavikings"
+    },
+    {
+      "weight": 1,
+      "source": "nfl",
+      "target": "oaklandraiders"
+    },
+    {
+      "weight": 1,
+      "source": "nfl",
+      "target": "49ers"
+    },
+    {
+      "weight": 1,
+      "source": "nfl",
+      "target": "falcons"
+    },
+    {
+      "weight": 1,
+      "source": "creepy",
+      "target": "nosleep"
+    },
+    {
+      "weight": 5,
+      "source": "relationships",
+      "target": "depression"
+    },
+    {
+      "weight": 12,
+      "source": "relationships",
+      "target": "relationship_advice"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "offmychest"
+    },
+    {
+      "weight": 3,
+      "source": "relationships",
+      "target": "sex"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "aspergers"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "nyc"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "raisedbynarcissists"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "korea"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "askgaybros"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "gonewildstories"
+    },
+    {
+      "weight": 2,
+      "source": "relationships",
+      "target": "legaladvice"
+    },
+    {
+      "weight": 1,
+      "source": "relationships",
+      "target": "needadvice"
+    },
+    {
+      "weight": 2,
+      "source": "badhistory",
+      "target": "changemyview"
+    },
+    {
+      "weight": 6,
+      "source": "badhistory",
+      "target": "news"
+    },
+    {
+      "weight": 3,
+      "source": "badhistory",
+      "target": "conspiracy"
+    },
+    {
+      "weight": 2,
+      "source": "badhistory",
+      "target": "europe"
+    },
+    {
+      "weight": 4,
+      "source": "badhistory",
+      "target": "pics"
+    },
+    {
+      "weight": 2,
+      "source": "badhistory",
+      "target": "japan"
+    },
+    {
+      "weight": 15,
+      "source": "badhistory",
+      "target": "history"
+    },
+    {
+      "weight": 4,
+      "source": "badhistory",
+      "target": "funny"
+    },
+    {
+      "weight": 9,
+      "source": "badhistory",
+      "target": "worldnews"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "bestof"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "india"
+    },
+    {
+      "weight": 3,
+      "source": "badhistory",
+      "target": "videos"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "assassinscreed"
+    },
+    {
+      "weight": 10,
+      "source": "badhistory",
+      "target": "todayilearned"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "4chan"
+    },
+    {
+      "weight": 2,
+      "source": "badhistory",
+      "target": "korea"
+    },
+    {
+      "weight": 2,
+      "source": "badhistory",
+      "target": "politics"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "canada"
+    },
+    {
+      "weight": 2,
+      "source": "badhistory",
+      "target": "badlegaladvice"
+    },
+    {
+      "weight": 2,
+      "source": "badhistory",
+      "target": "explainlikeimfive"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "iamverysmart"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "space"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "aznidentity"
+    },
+    {
+      "weight": 1,
+      "source": "badhistory",
+      "target": "gaming"
+    }
+  ]
+}
