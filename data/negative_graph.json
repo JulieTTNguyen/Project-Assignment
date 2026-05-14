@@ -388,6 +388,9 @@
       "id": "trees"
     },
     {
+      "id": "magicskyfairy"
+    },
+    {
       "id": "circlebrokecirclejerk"
     },
     {
@@ -638,6 +641,12 @@
     },
     {
       "id": "baddoctornostetho"
+    },
+    {
+      "id": "unpopularopinion"
+    },
+    {
+      "id": "amateurfights"
     },
     {
       "id": "wowcirclejerk"
@@ -1229,6 +1238,9 @@
     },
     {
       "id": "dotamasterrace"
+    },
+    {
+      "id": "pornvids"
     },
     {
       "id": "summonerschool"
@@ -2155,6 +2167,9 @@
       "id": "cinescenes"
     },
     {
+      "id": "ecr_eu"
+    },
+    {
       "id": "galatasaray"
     },
     {
@@ -2267,6 +2282,9 @@
     },
     {
       "id": "meteorology"
+    },
+    {
+      "id": "tf2trade"
     },
     {
       "id": "gradadmissions"
@@ -3172,6 +3190,9 @@
       "id": "labtech"
     },
     {
+      "id": "comedy"
+    },
+    {
       "id": "hawkesbay"
     },
     {
@@ -3433,6 +3454,9 @@
       "id": "fitnesscirclejerk"
     },
     {
+      "id": "youtubers"
+    },
+    {
       "id": "berkeley"
     },
     {
@@ -3491,6 +3515,9 @@
     },
     {
       "id": "plastic"
+    },
+    {
+      "id": "reddithelp"
     },
     {
       "id": "rape"
@@ -3620,6 +3647,9 @@
     },
     {
       "id": "curiousvideos"
+    },
+    {
+      "id": "exxxchange"
     },
     {
       "id": "computers"
@@ -3779,6 +3809,9 @@
     },
     {
       "id": "secondary_survivors"
+    },
+    {
+      "id": "sassmastah77"
     },
     {
       "id": "enlightenedbirdmen"
@@ -3973,9 +4006,6 @@
       "id": "perfectloops"
     },
     {
-      "id": "unpopularopinion"
-    },
-    {
       "id": "kratom"
     },
     {
@@ -4130,9 +4160,6 @@
     },
     {
       "id": "taiwan"
-    },
-    {
-      "id": "exxxchange"
     },
     {
       "id": "flatearth"
@@ -4657,6 +4684,9 @@
       "id": "the_schulz"
     },
     {
+      "id": "doomsdaycult"
+    },
+    {
       "id": "modmailbeta"
     },
     {
@@ -4738,6 +4768,9 @@
       "id": "incest_relationships"
     },
     {
+      "id": "everyfuckingthread"
+    },
+    {
       "id": "shadownet"
     },
     {
@@ -4774,6 +4807,9 @@
       "id": "hamiltonmusical"
     },
     {
+      "id": "badtattoos"
+    },
+    {
       "id": "thelastpsychiatrist"
     },
     {
@@ -4805,6 +4841,9 @@
     },
     {
       "id": "baconit"
+    },
+    {
+      "id": "holdmyfries"
     },
     {
       "id": "berlin"
@@ -5075,6 +5114,9 @@
     },
     {
       "id": "nudism"
+    },
+    {
+      "id": "chickflixxx"
     },
     {
       "id": "isitracist"
@@ -6483,6 +6525,11 @@
       "weight": 1,
       "source": "tipofmypenis",
       "target": "nsfw_gifs"
+    },
+    {
+      "weight": 2,
+      "source": "tipofmypenis",
+      "target": "pornvids"
     },
     {
       "weight": 1,
@@ -8732,6 +8779,11 @@
     {
       "weight": 1,
       "source": "circlebroke2",
+      "target": "holdmyfries"
+    },
+    {
+      "weight": 1,
+      "source": "circlebroke2",
       "target": "webdev"
     },
     {
@@ -9762,6 +9814,11 @@
     {
       "weight": 1,
       "source": "findareddit",
+      "target": "badtattoos"
+    },
+    {
+      "weight": 1,
+      "source": "findareddit",
       "target": "wholesomememes"
     },
     {
@@ -9923,6 +9980,26 @@
       "weight": 1,
       "source": "trees",
       "target": "leaves"
+    },
+    {
+      "weight": 4,
+      "source": "magicskyfairy",
+      "target": "atheism"
+    },
+    {
+      "weight": 1,
+      "source": "magicskyfairy",
+      "target": "news"
+    },
+    {
+      "weight": 1,
+      "source": "magicskyfairy",
+      "target": "exmormon"
+    },
+    {
+      "weight": 1,
+      "source": "magicskyfairy",
+      "target": "bad_religion"
     },
     {
       "weight": 3,
@@ -11030,6 +11107,41 @@
       "target": "politics"
     },
     {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "amateurfights"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "offmychest"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "sports"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "rant"
+    },
+    {
+      "weight": 2,
+      "source": "unpopularopinion",
+      "target": "funny"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "electronicmusic"
+    },
+    {
+      "weight": 1,
+      "source": "unpopularopinion",
+      "target": "tifu"
+    },
+    {
       "weight": 2,
       "source": "wowcirclejerk",
       "target": "wow"
@@ -11442,7 +11554,17 @@
     {
       "weight": 1,
       "source": "gonewildaudio",
+      "target": "pornvids"
+    },
+    {
+      "weight": 1,
+      "source": "gonewildaudio",
       "target": "sexystories"
+    },
+    {
+      "weight": 2,
+      "source": "gonewildaudio",
+      "target": "sassmastah77"
     },
     {
       "weight": 1,
@@ -15495,6 +15617,11 @@
       "target": "explainlikeimfive"
     },
     {
+      "weight": 1,
+      "source": "collapse",
+      "target": "doomsdaycult"
+    },
+    {
       "weight": 2,
       "source": "bisexual",
       "target": "korrasami"
@@ -15821,6 +15948,11 @@
     },
     {
       "weight": 1,
+      "source": "ecr_eu",
+      "target": "electronic_cigarette"
+    },
+    {
+      "weight": 1,
       "source": "galatasaray",
       "target": "videos"
     },
@@ -16088,6 +16220,11 @@
       "weight": 1,
       "source": "meteorology",
       "target": "environment"
+    },
+    {
+      "weight": 1,
+      "source": "tf2trade",
+      "target": "tf2"
     },
     {
       "weight": 1,
@@ -17696,6 +17833,16 @@
     },
     {
       "weight": 1,
+      "source": "comedy",
+      "target": "chicagobulls"
+    },
+    {
+      "weight": 1,
+      "source": "comedy",
+      "target": "conspiracy"
+    },
+    {
+      "weight": 1,
       "source": "hawkesbay",
       "target": "talesfromtechsupport"
     },
@@ -18256,6 +18403,11 @@
     },
     {
       "weight": 1,
+      "source": "youtubers",
+      "target": "solotravel"
+    },
+    {
+      "weight": 1,
       "source": "shittywritingprompts",
       "target": "sadcringe"
     },
@@ -18313,6 +18465,11 @@
       "weight": 1,
       "source": "supermoto",
       "target": "plastic"
+    },
+    {
+      "weight": 1,
+      "source": "reddithelp",
+      "target": "techsupport"
     },
     {
       "weight": 2,
@@ -18498,6 +18655,16 @@
       "weight": 1,
       "source": "anime_irlcirclejerk",
       "target": "anime_irl"
+    },
+    {
+      "weight": 1,
+      "source": "exxxchange",
+      "target": "pornvids"
+    },
+    {
+      "weight": 1,
+      "source": "exxxchange",
+      "target": "gentlemanboners"
     },
     {
       "weight": 1,
@@ -18951,36 +19118,6 @@
     },
     {
       "weight": 1,
-      "source": "unpopularopinion",
-      "target": "offmychest"
-    },
-    {
-      "weight": 1,
-      "source": "unpopularopinion",
-      "target": "sports"
-    },
-    {
-      "weight": 1,
-      "source": "unpopularopinion",
-      "target": "rant"
-    },
-    {
-      "weight": 2,
-      "source": "unpopularopinion",
-      "target": "funny"
-    },
-    {
-      "weight": 1,
-      "source": "unpopularopinion",
-      "target": "electronicmusic"
-    },
-    {
-      "weight": 1,
-      "source": "unpopularopinion",
-      "target": "tifu"
-    },
-    {
-      "weight": 1,
       "source": "kratom",
       "target": "quittingkratom"
     },
@@ -19193,11 +19330,6 @@
       "weight": 1,
       "source": "the_donaldson",
       "target": "baseballcirclejerk"
-    },
-    {
-      "weight": 1,
-      "source": "exxxchange",
-      "target": "gentlemanboners"
     },
     {
       "weight": 1,
@@ -20041,6 +20173,11 @@
     },
     {
       "weight": 1,
+      "source": "everyfuckingthread",
+      "target": "worstof"
+    },
+    {
+      "weight": 1,
       "source": "shadownet",
       "target": "shadownetwork"
     },
@@ -20383,6 +20520,11 @@
       "weight": 1,
       "source": "nudism",
       "target": "tifu"
+    },
+    {
+      "weight": 1,
+      "source": "chickflixxx",
+      "target": "pornvids"
     },
     {
       "weight": 1,
