@@ -6,54 +6,70 @@ import numpy as np
 import streamlit as st
 
 
-st.header("Subreddit Hyperlink Network Analysis")
 
-st.write("This website purpose is visualize and explain which subreddit communities attack or support each other and what characterizes them. " \
-"It will explore the following topics: \n" \
-"- Can communities be inferred from hyperlinks in subreddit posts. \n" \
-"- Do the found communities make sense and what characteries them. \n" \
-"- Are there similar language patterns within the communities"
+#5. Website
+#Your project should be understandable to someone outside the course. - 
+#Are the visualizations informative and well chosen? - 
+# Are explanations clear and accessible to a broad audience? - 
+# Is the website easy to navigate and pleasant to use?
+st.title("Subreddit Hyperlink Network Analysis")
+
+st.write(
+    "Reddit subreddits have been one of the loudest voices of the internet in recent decades. "
+    "They facilitate discussions on almost any imaginable topic, whether positive or hateful. "
+    "Depending on the topics they cover, their activity levels, guidelines, and communities vary significantly. "
+    "This sparked our interest in deepening our understanding of this modern essential social structure.\n\n"
+
+    "Our project began with the question:\n"
+    "\"Can meaningful patterns be inferred from the social and antisocial behaviour of subreddits?\"\n\n"
+
+    "This led us through many interesting analyses and raised even more questions that we wanted to answer:\n\n"
+
+    "- How can we understand inter-subreddit attacks by examining the degree distribution? "
+    "More specifically, how can we understand antisocial subreddit behaviour through the ratio of in-degree and out-degree?\n\n"
+
+    "- What meaningful communities can be identified in the positive hyperlink network? "
+    "What characterises the largest communities in the positive network based on text analysis of their descriptions?\n\n"
+
+    "- What characterises the top and bottom 10 subreddits by out-degree in the negative network, "
+    "based on text analysis of their descriptions?\n\n"
+
+    "The purpose of this website is to present and visualise our research findings. Enjoy"
 )
 
+st.subheader("Overview")
 
+st.write(
+    """
+    To make the website easy to navigate, we divided our research into five pages that chronologically present our workflow.
 
+    - **Data Gathering** explains how we downloaded and merged the SNAP and subreddit datasets.
+    - **Analysis Pages** present the results of our network and text analysis.
+    - **Conclusion** provides a brief summary of our findings.
+    - **Discussion** places our analysis into a broader perspective.
+    """
+)
 
+#st.subheader("Work and Code")
 
-st.subheader("Implementation")
-st.write("""
-    Networks setup: \n
-1) Link the subreddit description as a node attribute for each subreddit in the network.
-2) Make two networks with positive and negative links 
-3) Edge weights equal the number of links between the two subreddits.
-4) Obtain the largest strongly connected component of each network
+# Give this URL to nbviewer to update when done:
+# https://nbviewer.org/github/JulieTTNguyen/Project-Assignment/blob/main/src/explainer_notebook.ipynb
 
-Network analysis:\n
-5) Identify communities of subreddits using louvain community detection.
-6) Examine degree distribution of the networks (weighted and unweighted)
-7) Visualize graphs
+#with st.container(border=True):
+st.markdown(
+    """
+    ### Explainer Notebook
 
-Text analysis: \n
-8) Examine the difference in language in the descriptions of positive and negative networks. 
-9) Extract the most common tokens
+    This notebook covers the complete analysis pipeline, including:
 
-Topic Analysis: \n
-10) Extract topics using TF-IDF
-11) Visualize the most common topics
+    - Data preprocessing
+    - Graph analysis
+    - Text analysis
+    - Visualisations and figures
+    """
+)
 
-MAYBE: \n
-- Analyze the networks over time (since the network contains the time_stamps)
-
-""")
-
-st.subheader("Work and code")
-
-
-# give this url to nbviewer to update when done https://nbviewer.org/github/JulieTTNguyen/Project-Assignment/blob/main/src/explainer_notebook.ipynb
-with st.container(border=True):
-    st.markdown("""
-    **Explainer Notebook**  
-    This notebook covers the full analysis pipeline including data preprocessing, graph and text analysis as well as all graphs.
-    """)
-    st.link_button("Open explainer notebook", 
-                   "https://nbviewer.org/github/JulieTTNguyen/Project-Assignment/blob/main/src/explainer_notebook.ipynb")
-    
+st.link_button(
+    "Open Explainer Notebook",
+    "https://nbviewer.org/github/JulieTTNguyen/Project-Assignment/blob/main/src/explainer_notebook.ipynb",
+)
