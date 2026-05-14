@@ -13,14 +13,14 @@ st.title("Creating the graphs")
 
 st.write("In this section, we will outline our analysis of the subreddits networks with the use of python packages networks and netwulf. " \
 "The foundation for this analysis is the updated SNAP dataset that we extracted in the dataset download and cleaning sektion. " \
-"It contained the following columns" )
+"It contained the following columns:" )
 
-with st.expander("Columns in combined dataframe"):
-        st.dataframe(["SOURCE_SUBREDDIT", "TARGET_SUBREDDIT", "TIMESTAMP", "LINK_SENTIMENT", "DESCRIPTION"])
+with st.expander("Columns in SNAP dataset after preprocessing and merging"):
+        st.dataframe(["SOURCE_SUBREDDIT", "TARGET_SUBREDDIT", "LINK_SENTIMENT"])
 
-st.write("We chosse to create two seperate network graph, one for the positive link sentiment and one for the negative." \
-"In each graph, the subreddits were the nodes, the amount of posts between two subreddits were the weight of the links, and the descriptions set to attributes to each node. " \
-"We then found the biggest component for each graph. The networks had the following sizes")
+st.write("We choose to create two seperate network graph, one for the positive link sentiment and one for the negative." \
+"In each graph. Each subreddit was assigned to a node. Directed edges were created from hyperlinks, where the weight of the links were assigned as the number of directed links." \
+"The networks had the following sizes:")
 
 
 
@@ -31,12 +31,13 @@ st.title("Visualization")
 
 st.write("We split the positive graph into communities using the louvain communities. - MAYBE WRITE HOW IT DOES IT ")
 
-st.info("Eventhough both graph seems similar, it only made sense to split the positive graph into communities. " \
-"This decision was base on our assumptions about hate and love. " \
-"One would assume, that if you like two friends, they would also like each other, since they most likely share the same personality traits or interrest." \
-"However, if one hates two different people, then they might be from the same group, and therefore do not hate each other.")
+st.info("Even though the graphs seem similar, it only makes sense to split the positive graph into communities. " \
+"This decision was based on our assumptions about hate and love. " \
+"The community detection is based on the assumption that if you like two friends, they would also like each other." \
+"However, this assumption breaks for the negative graph: If one hates two different people, this does not mean that there is a large probability that those two people also hate each other. " \
+"This is why, the community detection is not meaningful for the negative graph.")
 
-st.write("We visualized the communities using the netwulf package, but quickly realised the network contained to many notes to make a meaningful analysis.")
+st.write("We visualized the communities using the netwulf package:") 
 
 
 with open("./data/positive_communities.json", 'r') as file:
@@ -45,8 +46,10 @@ G_positive_communities = nx.node_link_graph(data)
 
 plot_communities(G_positive_communities)
 
-st.subheader("Filtering")
+st.write("It is seen that there are several subreddits which exist in the peripheal view with almost " \
+         "no links to the rest of the graph.")
 
+st.subheader("Filtering")
 
 st.write(f"To overcome this obstacle, we decided to filter our all links with weights under {FILTER_THRESSHOLD}. " \
 "This helped us to avoid isolate subreddit pairs and more random connections. " \
